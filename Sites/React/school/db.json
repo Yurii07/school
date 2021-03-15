@@ -1,0 +1,176 @@
+{
+  "Schoolboy": [
+    {
+      "Id": 5,
+      "FirstName": "Маргарита",
+      "SecondName": "Тарасівна",
+      "LastName": "Байдак"
+    },
+    {
+      "Id": 6,
+      "FirstName": "Даниїл",
+      "SecondName": "Михайлович",
+      "LastName": "Прокопчук"
+    },
+    {
+      "Id": 7,
+      "FirstName": "Анастасія",
+      "SecondName": "Сергіївна",
+      "LastName": "Тимошенко"
+    },
+    {
+      "Id": 8,
+      "FirstName": "Олександр",
+      "SecondName": null,
+      "LastName": "Яремчук"
+    },
+    {
+      "Id": 9,
+      "FirstName": "Іван",
+      "SecondName": "Сергійович",
+      "LastName": null
+    },
+    {
+      "Id": 10,
+      "FirstName": "Тимофій",
+      "SecondName": null,
+      "LastName": null
+    },
+    {
+      "Id": 11,
+      "FirstName": "Дар'я",
+      "SecondName": "Дмитрівна",
+      "LastName": "Гниляк"
+    },
+    {
+      "Id": 12,
+      "FirstName": "Даніаль",
+      "SecondName": "Нашванович",
+      "LastName": "Юсіф"
+    },
+    {
+      "Id": 13,
+      "FirstName": "Софія",
+      "SecondName": "Миколаївна",
+      "LastName": "Кучеренко"
+    },
+    {
+      "Id": 14,
+      "FirstName": null,
+      "SecondName": null,
+      "LastName": "Грищенко"
+    },
+    {
+      "Id": 15,
+      "FirstName": null,
+      "SecondName": "Вольдемарович",
+      "LastName": null
+    },
+    {
+      "Id": 16,
+      "FirstName": "Захар",
+      "SecondName": "Євгенович",
+      "LastName": "Муляр"
+    },
+    {
+      "Id": 17,
+      "FirstName": "Софія",
+      "SecondName": "Васильович",
+      "LastName": "Бойко"
+    },
+    {
+      "Id": 18,
+      "FirstName": "Олександр",
+      "SecondName": "Григорович",
+      "LastName": "Гниляк"
+    },
+    {
+      "Id": 19,
+      "FirstName": "Данило",
+      "SecondName": "Євгенович",
+      "LastName": null
+    },
+    {
+      "Id": 20,
+      "FirstName": "Катерина",
+      "SecondName": null,
+      "LastName": "Кожедуб"
+    },
+    {
+      "Id": 21,
+      "FirstName": "Захар",
+      "SecondName": "Сергійович",
+      "LastName": "Козоріз"
+    },
+    {
+      "Id": 25,
+      "FirstName": "Ангеліна",
+      "SecondName": "Петрівна",
+      "LastName": "Овсієнко"
+    },
+    {
+      "Id": 26,
+      "FirstName": "Володимир",
+      "SecondName": null,
+      "LastName": "Сідляренко"
+    },
+    {
+      "Id": 27,
+      "FirstName": "Марія",
+      "SecondName": "Юрійович",
+      "LastName": "Бобровіцький"
+    }
+  ],
+  "Column": [
+    {
+      "Id": 4,
+      "Title": "1/2"
+    },
+    {
+      "Id": 5,
+      "Title": "2/2"
+    },
+    {
+      "Id": 6,
+      "Title": "3/2"
+    },
+    {
+      "Id": 7,
+      "Title": "5/2"
+    },
+    {
+      "Id": 8,
+      "Title": "3/3"
+    },
+    {
+      "Id": 9,
+      "Title": "4/1"
+    }
+  ],
+  "Rate": [
+    {
+      "Id": 19,
+      "Title": "Н",
+      "SchoolboyId": 25,
+      "ColumnId": 7
+    },
+    {
+      "Id": 21,
+      "Title": "Н",
+      "SchoolboyId": 21,
+      "ColumnId": 4
+    },
+    {
+      "Id": 22,
+      "Title": "Н",
+      "SchoolboyId": 27,
+      "ColumnId": 5
+    },
+    {
+      "Id": 24,
+      "Title": "Н",
+      "SchoolboyId": 5,
+      "ColumnId": 9
+    }
+  ]
+}
